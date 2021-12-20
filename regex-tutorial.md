@@ -69,8 +69,6 @@ Each of the last three character classes can be changed to perform an inverse ma
 
 
 ### Character Escapes
-The escaped character in this regex example is the period denoted by \. in the class groupings. This is used to break up the special characters in the bracket expression so that the regex knows to return any results that also contain a period.
-
 The Charachter Espace in this tutorial is `\.` in the clas group. This is so regex knoows to return any results contained in the period by breaking up the special charactes in the bracket expression.
 
 ## Author
