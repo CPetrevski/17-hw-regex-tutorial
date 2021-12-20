@@ -13,8 +13,6 @@ Matching and Validating email addresess is an important part of creating forms a
 - [Grouping Constructs](#grouping-constructs)
 - [Bracket Expressions](#bracket-expressions)
 - [Character Classes](#character-classes)
-- [The OR Operator](#the-or-operator)
-- [Flags](#flags)
 - [Character Escapes](#character-escapes)
 
 ## Regex Components
@@ -77,4 +75,4 @@ The Charachter Espace in this tutorial is `\.` in the clas group. This is so reg
 
 ## Author
 
-Created by: <a href="">Christopher Petrevski</a>
+Created by: <a href="https://github.com/CPetrevski">Christopher Petrevski</a>

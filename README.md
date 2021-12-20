@@ -23,4 +23,4 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 ## Link
 
-<a href="">Gist</a>
+<a href="https://gist.github.com/CPetrevski/3e06aac7fe9a161d1ec99cec1cf216dc">Gist</a>
